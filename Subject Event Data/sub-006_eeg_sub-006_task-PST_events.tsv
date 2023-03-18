@@ -1,0 +1,970 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+623.0060000000	n/a	n/a	STATUS	n/a	n/a	S201
+774.5640000000	n/a	n/a	STATUS	n/a	n/a	S205
+816.6840000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+820.3680000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+820.7360000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+822.7900000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+824.1160000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+824.5400000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+826.5980000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+827.8280000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+828.2620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+830.3180000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+831.3320000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+831.6960000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+833.7520000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+835.8480000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+836.3740000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+838.4280000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+839.2000000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+839.7160000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+841.7700000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+842.7320000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+843.2660000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+845.3200000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+846.9000000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+847.3140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+849.3680000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+850.1280000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+850.5120000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+852.5660000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+853.3360000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+853.7000000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+855.7520000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+856.6480000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+857.1720000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+859.2240000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+860.0320000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+860.3880000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+862.4420000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+863.9040000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+864.3380000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+866.3920000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+868.0320000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+868.3960000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+870.4500000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+871.6400000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+872.0140000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+874.0680000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+874.5560000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+875.0880000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+877.1420000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+879.1640000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+879.5180000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+881.5700000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+883.8000000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+884.3120000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+886.3660000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+887.2720000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+887.6980000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+889.7500000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+891.0160000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+891.4480000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+893.5020000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+895.7320000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+896.1160000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+898.1700000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+899.4440000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+899.9060000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+901.9600000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+902.8520000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+903.3440000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+905.3980000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+906.1160000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+906.5080000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+908.5620000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+911.4240000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+911.8960000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+913.9500000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+916.3320000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+916.7140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+918.7680000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+920.0080000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+920.4600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+922.5140000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+923.5200000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+923.9440000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+925.9980000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+926.9880000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+927.4800000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+929.5340000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+931.8480000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+932.4020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+934.4540000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+936.4180000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+936.7820000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+938.8360000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+939.8860000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+940.2600000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+942.3140000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+944.2020000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+944.6060000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+946.6600000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+947.4980000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+947.9020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+949.9540000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+951.4940000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+952.0400000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+954.0920000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+955.8580000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+956.4120000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+958.4660000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+959.8540000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+960.3180000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+962.3700000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+963.9660000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+964.3200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+966.3740000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+969.1660000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+969.6400000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+971.6920000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+972.9040000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+973.3900000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+975.4420000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+977.0140000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+977.3680000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+979.4200000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+980.4780000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+980.9020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+982.9560000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+983.8220000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+984.3260000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+986.3780000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+988.0340000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+988.5380000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+990.5920000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+993.1420000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+993.6960000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+995.7480000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+997.5700000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+998.0540000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1000.1060000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1003.3660000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1003.7500000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1005.8020000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1008.8300000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1009.3240000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1011.3760000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1015.4280000000	n/a	n/a	RESP: No Response	n/a	n/a	S105
+1015.9460000000	n/a	n/a	FB: No Response FB	n/a	n/a	S  7
+1018.0000000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1019.4700000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1019.8940000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1021.9480000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1023.5300000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1023.9540000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1026.0060000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1027.5220000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1028.0240000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1030.0780000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1032.1060000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+1032.4600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1034.5120000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1035.9180000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1036.3200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1038.3740000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1039.3460000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1039.7580000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1041.8120000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1044.1540000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1044.5300000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1046.5840000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1048.0140000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1048.3980000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1050.4500000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1051.2260000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1051.6280000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1053.6820000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1055.4380000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1055.8600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1057.9140000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1059.5980000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1060.1100000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1068.0300000000	n/a	n/a	STATUS	n/a	n/a	S204
+1425.4860000000	n/a	n/a	STATUS	n/a	n/a	S205
+1500.2660000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1503.7940000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1504.3500000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1506.4060000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1510.1820000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+1510.6160000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1512.6700000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1515.5960000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1516.0320000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1518.0840000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1519.4000000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1519.8840000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1521.9380000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1523.8160000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1524.3200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1526.3740000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1527.7640000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1528.1780000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1530.2300000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1532.5320000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1532.9660000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1535.0200000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1535.7000000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1536.2540000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1538.3080000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1540.3120000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+1540.6860000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1542.7400000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1543.5600000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1543.9440000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1545.9960000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1547.3640000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1547.7980000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1549.8500000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1551.0960000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1551.6000000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1553.6520000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1554.4640000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1555.0200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1557.0720000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1558.6600000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1559.0940000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1561.1460000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1563.0760000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1563.5300000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1565.5820000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1567.1120000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1567.6440000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1569.6980000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1571.4000000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1571.8140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1573.8660000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1576.0280000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1576.4140000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1578.4660000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1579.6000000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1580.1140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1582.1680000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1583.8200000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1584.2640000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1586.3160000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1587.1840000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1587.5880000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1589.6400000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1592.4040000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1592.8260000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1594.8800000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1598.3840000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1598.8280000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1600.8800000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1602.7600000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1603.2260000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1605.2780000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1607.8640000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1608.3460000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1610.4000000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1611.7680000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1612.2920000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1614.3460000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1616.4520000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1616.9060000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1618.9580000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1619.9240000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1620.2980000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1622.3500000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1623.4600000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1623.9940000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1626.0460000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1627.5320000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1627.9240000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1629.9780000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1631.5600000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1631.9720000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1634.0260000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1635.6680000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1636.1220000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1638.1740000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1642.2260000000	n/a	n/a	RESP: No Response	n/a	n/a	S105
+1642.6140000000	n/a	n/a	FB: No Response FB	n/a	n/a	S  7
+1644.6680000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1646.3720000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1646.7360000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1648.7880000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1649.4600000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1649.8140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1651.8660000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1654.8880000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1655.3520000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1657.4040000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1660.1080000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1660.4800000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1662.5340000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1663.9320000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1664.3440000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1666.3980000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1668.9180000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1669.3420000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1671.3960000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1673.4540000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1673.8280000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1675.8820000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1676.7100000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1677.2540000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1679.3080000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1681.1300000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1681.6840000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1683.7360000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+1684.8540000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1685.2880000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1687.3400000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1688.8980000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1689.4420000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1691.4940000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1692.8660000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1693.3320000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1695.3860000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1699.0380000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1699.3920000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1701.4460000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1704.8540000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+1705.3580000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1707.4120000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1708.9660000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1709.3800000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1711.4340000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1712.7820000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1713.2560000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1715.3080000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1716.1620000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1716.5680000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1718.6200000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1721.0580000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1721.5620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1723.6140000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1724.5260000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1724.8800000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1726.9320000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1728.4780000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1729.0340000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+1731.0860000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1732.1420000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1732.5160000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1734.5680000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1735.4260000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1735.9400000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1737.9920000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+1738.9500000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1739.3640000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1741.4160000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+1743.7220000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+1744.1160000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1746.1680000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+1747.9100000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+1748.4320000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1750.4860000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+1751.4700000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1751.9020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1753.9560000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1756.5340000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1756.9480000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+1768.7660000000	n/a	n/a	STATUS	n/a	n/a	S203
+1968.0520000000	n/a	n/a	STATUS	n/a	n/a	S205
+1995.7760000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+1999.0520000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+1999.5780000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2001.6300000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2003.3680000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2003.9200000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2005.9740000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2008.0120000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2008.5660000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2010.6200000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2013.1720000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2013.6160000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2015.6680000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2019.7200000000	n/a	n/a	RESP: No Response	n/a	n/a	S105
+2020.1860000000	n/a	n/a	FB: No Response FB	n/a	n/a	S  7
+2022.2400000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2023.5720000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2024.0060000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2026.0580000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2027.5600000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2028.0120000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2030.0660000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2031.5260000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2032.0400000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2034.0940000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2035.8220000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2036.2680000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2038.3200000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2039.2740000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2039.6280000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2041.6820000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2043.7020000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2044.1260000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2046.1800000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2047.6500000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2048.0440000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2050.0980000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2050.8180000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2051.2940000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2053.3480000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2054.4140000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2054.7980000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2056.8500000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2060.0820000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2060.5660000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2062.6200000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2063.4060000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2063.9000000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2065.9520000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2067.2140000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2067.6300000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2069.6840000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2072.1860000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2072.5400000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2074.5920000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2076.2540000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2076.7880000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2078.8400000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2080.7220000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2081.0960000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2083.1480000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2085.9020000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2086.4280000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2088.4820000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2091.3660000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2091.7400000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2093.7940000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2094.9540000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2095.4780000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2097.5320000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2098.2860000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2098.8100000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2100.8620000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2102.2780000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2102.7620000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2104.8160000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2107.3060000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2107.8600000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2109.9120000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2110.8460000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2111.3600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2113.4140000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2115.7100000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2116.1140000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2118.1680000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2119.5500000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2119.9840000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2122.0360000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2124.7820000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2125.1560000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2127.2100000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2128.2580000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2128.8100000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2130.8640000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2132.5820000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2133.0160000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2135.0680000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2137.1340000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2137.6300000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2139.6820000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2140.3460000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2140.7480000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2142.8020000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2143.9180000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2144.4320000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2146.4840000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2147.6540000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2148.0660000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2150.1200000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2151.8940000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2152.3880000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2154.4420000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2156.5580000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2157.1020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2159.1540000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2160.3820000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2160.7660000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2162.8180000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2164.1500000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2164.6420000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2166.6960000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2168.3340000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2168.8480000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2170.9000000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2174.9520000000	n/a	n/a	RESP: No Response	n/a	n/a	S105
+2175.4180000000	n/a	n/a	FB: No Response FB	n/a	n/a	S  7
+2177.4720000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2178.2700000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2178.6740000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2180.7260000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2182.0740000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2182.5460000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2184.6000000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2186.7100000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2187.1620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2189.2160000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2190.1660000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2190.6400000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2192.6920000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2193.9340000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2194.4160000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2196.4700000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2198.5660000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2199.0480000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2201.1020000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2202.5180000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2203.0700000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2205.1240000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2206.2020000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2206.7040000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2208.7580000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2210.7260000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2211.2200000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2213.2740000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2214.2460000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2214.6780000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2216.7320000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2219.0320000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2219.4260000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2221.4800000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2223.3680000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2223.7620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2225.8160000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2226.7000000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2227.2140000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2229.2680000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2231.0200000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2231.5540000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2233.6080000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2234.9320000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2235.4380000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2237.4900000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2240.0120000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2240.4260000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2242.4800000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2244.0600000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2244.6140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2246.6680000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2247.5160000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2247.9500000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2257.6820000000	n/a	n/a	STATUS	n/a	n/a	S202
+2458.7000000000	n/a	n/a	STATUS	n/a	n/a	S205
+2487.5140000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2491.5660000000	n/a	n/a	RESP: No Response	n/a	n/a	S105
+2492.0540000000	n/a	n/a	FB: No Response FB	n/a	n/a	S  7
+2494.1080000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2495.8780000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2496.3620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2498.4160000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2499.1260000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2499.6580000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2501.7120000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2504.8900000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2505.3320000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2507.3860000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2508.4140000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2508.8760000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2510.9300000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2512.1540000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2512.5460000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2514.6000000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2515.3380000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2515.8940000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2517.9460000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2518.8820000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2519.2560000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2521.3080000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2524.0260000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2524.5280000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2526.5820000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2527.9860000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2528.3480000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2530.4020000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2531.7420000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2532.2140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2534.2680000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2535.2460000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2535.6380000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2537.6920000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2539.4700000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2539.8520000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2541.9060000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2544.0700000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2544.5360000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2546.5880000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2547.5980000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2547.9520000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2550.0040000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2551.0380000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2551.5120000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2553.5640000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2554.9100000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2555.3720000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2557.4260000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2559.0180000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2559.5200000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2561.5740000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2563.8860000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2564.4200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2566.4740000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2568.2980000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2568.6700000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2570.7240000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2573.0380000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2573.5300000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2575.5820000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2576.4500000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2576.8020000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2578.8560000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2580.3580000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2580.8800000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2582.9340000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2583.9960000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2584.4600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2586.5140000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2587.6760000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2588.1600000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2590.2140000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2592.1520000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2592.6280000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2594.6820000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2596.4480000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2596.8620000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2598.9160000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2602.1600000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2602.6140000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2604.6680000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2605.6560000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2606.1700000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2608.2240000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2610.0000000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2610.4640000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2612.5160000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2614.0320000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2614.4480000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2616.5020000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2617.6200000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2618.0740000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2620.1280000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2622.0160000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2622.5600000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2624.6140000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2627.3040000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2627.7080000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2629.7600000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2631.2160000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2631.7700000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2633.8220000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2634.9640000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2635.5200000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2637.5720000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2638.9600000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2639.3840000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2641.4380000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2643.7120000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2644.2460000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2646.3000000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2647.5520000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2647.9360000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2649.9880000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2651.0320000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2651.5060000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2653.5580000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2655.1080000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2655.6420000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2657.6940000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2659.5720000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2659.9860000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2662.0380000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2664.1840000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2664.6880000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2666.7400000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2667.6880000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2668.2120000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2670.2640000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2671.3240000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2671.7100000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2673.7620000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2677.0480000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2677.4920000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2679.5460000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2680.7800000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2681.2840000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2683.3380000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2684.0280000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2684.5300000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2686.5840000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2688.2800000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2688.8120000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2690.8660000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2691.8560000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2692.2080000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2694.2620000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2695.2360000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2695.6320000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2697.6840000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2698.7240000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2699.1260000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2701.1800000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2704.0880000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2704.4920000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2706.5460000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2707.9120000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2708.4560000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2710.5080000000	n/a	n/a	STIM: A-B	n/a	n/a	S116
+2711.2280000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2711.6900000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2713.7440000000	n/a	n/a	STIM: C-D	n/a	n/a	S125
+2717.2280000000	n/a	n/a	RESP: Left Press, Correct	n/a	n/a	S101
+2717.6800000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2719.7340000000	n/a	n/a	STIM: E-F	n/a	n/a	S134
+2721.2400000000	n/a	n/a	RESP: Right Press, Incorrect	n/a	n/a	S104
+2721.7140000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2723.7680000000	n/a	n/a	STIM: D-C	n/a	n/a	S152
+2725.3680000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2725.7820000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2727.8340000000	n/a	n/a	STIM: F-E	n/a	n/a	S143
+2730.6440000000	n/a	n/a	RESP: Left Press, Incorrect	n/a	n/a	S103
+2731.0460000000	n/a	n/a	FB: Reward	n/a	n/a	S  8
+2733.1000000000	n/a	n/a	STIM: B-A	n/a	n/a	S161
+2733.9720000000	n/a	n/a	RESP: Right Press, Correct	n/a	n/a	S102
+2734.5060000000	n/a	n/a	FB: Punishment	n/a	n/a	S  9
+2762.4500000000	n/a	n/a	TESTING: D-A	n/a	n/a	S 51
+2764.0000000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2765.0540000000	n/a	n/a	TESTING: B-A	n/a	n/a	S 61
+2765.8880000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2766.9420000000	n/a	n/a	TESTING: A-D	n/a	n/a	S 15
+2769.8320000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2770.8840000000	n/a	n/a	TESTING: F-A	n/a	n/a	S 41
+2773.9680000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2775.0220000000	n/a	n/a	TESTING: C-F	n/a	n/a	S 24
+2779.0760000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2780.1300000000	n/a	n/a	TESTING: F-B	n/a	n/a	S 46
+2784.1820000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2785.2360000000	n/a	n/a	TESTING: F-D	n/a	n/a	S 45
+2788.3720000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2789.4240000000	n/a	n/a	TESTING: F-E	n/a	n/a	S 43
+2791.3580000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2792.4120000000	n/a	n/a	TESTING: C-D	n/a	n/a	S 25
+2793.9300000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2794.9840000000	n/a	n/a	TESTING: D-C	n/a	n/a	S 52
+2797.8420000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2798.8960000000	n/a	n/a	TESTING: F-C	n/a	n/a	S 42
+2801.0440000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2802.0960000000	n/a	n/a	TESTING: B-D	n/a	n/a	S 65
+2804.3900000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2805.4440000000	n/a	n/a	TESTING: D-E	n/a	n/a	S 53
+2806.7740000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2807.8280000000	n/a	n/a	TESTING: D-E	n/a	n/a	S 53
+2809.2860000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2810.3400000000	n/a	n/a	TESTING: C-B	n/a	n/a	S 26
+2811.4660000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2812.5200000000	n/a	n/a	TESTING: A-B	n/a	n/a	S 16
+2815.1500000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2816.2040000000	n/a	n/a	TESTING: A-B	n/a	n/a	S 16
+2820.2560000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2821.3100000000	n/a	n/a	TESTING: E-C	n/a	n/a	S 32
+2825.3620000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2826.4160000000	n/a	n/a	TESTING: D-C	n/a	n/a	S 52
+2828.4980000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2829.5520000000	n/a	n/a	TESTING: B-D	n/a	n/a	S 65
+2831.3700000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2832.4240000000	n/a	n/a	TESTING: E-A	n/a	n/a	S 31
+2836.3660000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2837.4200000000	n/a	n/a	TESTING: D-E	n/a	n/a	S 53
+2841.4720000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2842.5240000000	n/a	n/a	TESTING: F-B	n/a	n/a	S 46
+2844.8180000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2845.8720000000	n/a	n/a	TESTING: E-C	n/a	n/a	S 32
+2849.6500000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2850.7040000000	n/a	n/a	TESTING: F-B	n/a	n/a	S 46
+2854.7560000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2855.8080000000	n/a	n/a	TESTING: A-B	n/a	n/a	S 16
+2859.8600000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2860.9140000000	n/a	n/a	TESTING: F-A	n/a	n/a	S 41
+2862.5900000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2863.6420000000	n/a	n/a	TESTING: A-E	n/a	n/a	S 13
+2866.8060000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2867.8580000000	n/a	n/a	TESTING: B-E	n/a	n/a	S 63
+2869.1260000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2870.1780000000	n/a	n/a	TESTING: F-A	n/a	n/a	S 41
+2873.4420000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2874.4940000000	n/a	n/a	TESTING: C-A	n/a	n/a	S 21
+2876.4780000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2877.5300000000	n/a	n/a	TESTING: E-D	n/a	n/a	S 35
+2879.5100000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2880.5620000000	n/a	n/a	TESTING: D-E	n/a	n/a	S 53
+2882.2420000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2883.2940000000	n/a	n/a	TESTING: F-E	n/a	n/a	S 43
+2887.2540000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2888.3060000000	n/a	n/a	TESTING: E-A	n/a	n/a	S 31
+2889.4540000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2890.5060000000	n/a	n/a	TESTING: B-D	n/a	n/a	S 65
+2892.4020000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2893.4540000000	n/a	n/a	TESTING: B-D	n/a	n/a	S 65
+2896.2300000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2897.2820000000	n/a	n/a	TESTING: A-F	n/a	n/a	S 14
+2898.4740000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2899.5260000000	n/a	n/a	TESTING: D-A	n/a	n/a	S 51
+2901.8060000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2902.8580000000	n/a	n/a	TESTING: F-A	n/a	n/a	S 41
+2905.7860000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2906.8380000000	n/a	n/a	TESTING: A-D	n/a	n/a	S 15
+2908.1540000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2909.2060000000	n/a	n/a	TESTING: D-B	n/a	n/a	S 56
+2912.6060000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2913.6580000000	n/a	n/a	TESTING: E-B	n/a	n/a	S 36
+2914.4380000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2915.4900000000	n/a	n/a	TESTING: D-B	n/a	n/a	S 56
+2917.5340000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2918.5860000000	n/a	n/a	TESTING: A-D	n/a	n/a	S 15
+2921.5380000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2922.5920000000	n/a	n/a	TESTING: B-E	n/a	n/a	S 63
+2923.4700000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2924.5220000000	n/a	n/a	TESTING: A-C	n/a	n/a	S 12
+2928.5740000000	n/a	n/a	STATUS	n/a	n/a	S  5
+2929.6280000000	n/a	n/a	TESTING: D-F	n/a	n/a	S 54
+2931.2980000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2932.3500000000	n/a	n/a	TESTING: B-C	n/a	n/a	S 62
+2933.9580000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2935.0100000000	n/a	n/a	TESTING: D-C	n/a	n/a	S 52
+2937.8100000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2938.8620000000	n/a	n/a	TESTING: E-D	n/a	n/a	S 35
+2940.2580000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2941.3100000000	n/a	n/a	TESTING: D-B	n/a	n/a	S 56
+2943.4840000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2944.5380000000	n/a	n/a	TESTING: B-A	n/a	n/a	S 61
+2945.3520000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2946.4060000000	n/a	n/a	TESTING: F-E	n/a	n/a	S 43
+2947.8240000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2948.8780000000	n/a	n/a	TESTING: F-C	n/a	n/a	S 42
+2951.7340000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2952.7860000000	n/a	n/a	TESTING: C-E	n/a	n/a	S 23
+2953.8780000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+2954.9300000000	n/a	n/a	TESTING: D-A	n/a	n/a	S 51
+2957.6240000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2958.6780000000	n/a	n/a	TESTING: F-D	n/a	n/a	S 45
+2959.9480000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2961.0020000000	n/a	n/a	TESTING: C-B	n/a	n/a	S 26
+2963.3000000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2964.3540000000	n/a	n/a	TESTING: E-D	n/a	n/a	S 35
+2965.6200000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2966.6740000000	n/a	n/a	TESTING: F-C	n/a	n/a	S 42
+2969.5800000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2970.6340000000	n/a	n/a	TESTING: F-E	n/a	n/a	S 43
+2972.4320000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2973.4860000000	n/a	n/a	TESTING: A-E	n/a	n/a	S 13
+2975.3840000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2976.4380000000	n/a	n/a	TESTING: B-F	n/a	n/a	S 64
+2977.9040000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2978.9580000000	n/a	n/a	TESTING: D-F	n/a	n/a	S 54
+2980.2400000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2981.2940000000	n/a	n/a	TESTING: E-F	n/a	n/a	S 34
+2982.4720000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2983.5260000000	n/a	n/a	TESTING: B-C	n/a	n/a	S 62
+2985.1280000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2986.1820000000	n/a	n/a	TESTING: A-C	n/a	n/a	S 12
+2987.7480000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+2988.8020000000	n/a	n/a	TESTING: D-A	n/a	n/a	S 51
+2989.7880000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2990.8420000000	n/a	n/a	TESTING: B-A	n/a	n/a	S 61
+2991.6600000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+2992.7140000000	n/a	n/a	TESTING: D-C	n/a	n/a	S 52
+2995.0520000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+2996.1060000000	n/a	n/a	TESTING: D-B	n/a	n/a	S 56
+2997.8160000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+2998.8700000000	n/a	n/a	TESTING: A-F	n/a	n/a	S 14
+3000.4000000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3001.4540000000	n/a	n/a	TESTING: E-F	n/a	n/a	S 34
+3002.9640000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3004.0180000000	n/a	n/a	TESTING: A-F	n/a	n/a	S 14
+3005.3440000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3006.3980000000	n/a	n/a	TESTING: E-C	n/a	n/a	S 32
+3007.7480000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+3008.8020000000	n/a	n/a	TESTING: E-D	n/a	n/a	S 35
+3010.7760000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3011.8300000000	n/a	n/a	TESTING: A-B	n/a	n/a	S 16
+3012.8200000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3013.8740000000	n/a	n/a	TESTING: B-E	n/a	n/a	S 63
+3015.6440000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+3016.6980000000	n/a	n/a	TESTING: E-A	n/a	n/a	S 31
+3017.6680000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3018.7220000000	n/a	n/a	TESTING: B-E	n/a	n/a	S 63
+3019.6560000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3020.7100000000	n/a	n/a	TESTING: C-E	n/a	n/a	S 23
+3021.9640000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3023.0180000000	n/a	n/a	TESTING: A-D	n/a	n/a	S 15
+3024.4240000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3025.4780000000	n/a	n/a	TESTING: C-D	n/a	n/a	S 25
+3027.8160000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3028.8700000000	n/a	n/a	TESTING: E-A	n/a	n/a	S 31
+3032.9220000000	n/a	n/a	STATUS	n/a	n/a	S  5
+3033.9740000000	n/a	n/a	TESTING: A-E	n/a	n/a	S 13
+3035.9880000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3037.0400000000	n/a	n/a	TESTING: E-F	n/a	n/a	S 34
+3041.0940000000	n/a	n/a	STATUS	n/a	n/a	S  5
+3042.1460000000	n/a	n/a	TESTING: F-D	n/a	n/a	S 45
+3045.9280000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3046.9820000000	n/a	n/a	TESTING: E-B	n/a	n/a	S 36
+3051.0340000000	n/a	n/a	STATUS	n/a	n/a	S  5
+3052.0860000000	n/a	n/a	TESTING: F-B	n/a	n/a	S 46
+3055.1920000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3056.2440000000	n/a	n/a	TESTING: A-C	n/a	n/a	S 12
+3058.7680000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3059.8200000000	n/a	n/a	TESTING: C-F	n/a	n/a	S 24
+3061.8480000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3062.9000000000	n/a	n/a	TESTING: B-C	n/a	n/a	S 62
+3066.3760000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3067.4280000000	n/a	n/a	TESTING: C-F	n/a	n/a	S 24
+3069.3400000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3070.3920000000	n/a	n/a	TESTING: C-A	n/a	n/a	S 21
+3071.3280000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3072.3800000000	n/a	n/a	TESTING: B-A	n/a	n/a	S 61
+3073.7120000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3074.7640000000	n/a	n/a	TESTING: C-E	n/a	n/a	S 23
+3075.9360000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3076.9880000000	n/a	n/a	TESTING: B-C	n/a	n/a	S 62
+3078.9320000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3079.9840000000	n/a	n/a	TESTING: C-B	n/a	n/a	S 26
+3081.0200000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3082.0720000000	n/a	n/a	TESTING: C-F	n/a	n/a	S 24
+3083.9000000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3084.9520000000	n/a	n/a	TESTING: F-D	n/a	n/a	S 45
+3088.8600000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3089.9120000000	n/a	n/a	TESTING: F-C	n/a	n/a	S 42
+3093.9640000000	n/a	n/a	STATUS	n/a	n/a	S  5
+3095.0180000000	n/a	n/a	TESTING: D-F	n/a	n/a	S 54
+3096.1200000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3097.1720000000	n/a	n/a	TESTING: D-F	n/a	n/a	S 54
+3097.9000000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3098.9520000000	n/a	n/a	TESTING: E-B	n/a	n/a	S 36
+3100.5080000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3101.5600000000	n/a	n/a	TESTING: C-B	n/a	n/a	S 26
+3102.7640000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3103.8160000000	n/a	n/a	TESTING: B-F	n/a	n/a	S 64
+3104.4720000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3105.5240000000	n/a	n/a	TESTING: C-A	n/a	n/a	S 21
+3106.7360000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3107.7880000000	n/a	n/a	TESTING: A-F	n/a	n/a	S 14
+3108.4400000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3109.4920000000	n/a	n/a	TESTING: E-C	n/a	n/a	S 32
+3111.1880000000	n/a	n/a	TESTING: Left Press, Incorrect	n/a	n/a	S  3
+3112.2400000000	n/a	n/a	TESTING: C-D	n/a	n/a	S 25
+3115.0320000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3116.0840000000	n/a	n/a	TESTING: E-F	n/a	n/a	S 34
+3116.9520000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3118.0040000000	n/a	n/a	TESTING: C-A	n/a	n/a	S 21
+3119.0480000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3120.1000000000	n/a	n/a	TESTING: B-F	n/a	n/a	S 64
+3120.8960000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3121.9480000000	n/a	n/a	TESTING: C-E	n/a	n/a	S 23
+3123.8800000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3124.9320000000	n/a	n/a	TESTING: A-C	n/a	n/a	S 12
+3126.4160000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
+3127.4680000000	n/a	n/a	TESTING: B-F	n/a	n/a	S 64
+3128.1420000000	n/a	n/a	TESTING: Right Press, Correct	n/a	n/a	S  2
+3129.1960000000	n/a	n/a	TESTING: C-D	n/a	n/a	S 25
+3130.6340000000	n/a	n/a	TESTING: Right Press, Incorrect	n/a	n/a	S  4
+3131.6880000000	n/a	n/a	TESTING: A-E	n/a	n/a	S 13
+3135.7400000000	n/a	n/a	STATUS	n/a	n/a	S  5
+3136.7940000000	n/a	n/a	TESTING: E-B	n/a	n/a	S 36
+3139.7500000000	n/a	n/a	TESTING: Left Press, Correct	n/a	n/a	S  1
